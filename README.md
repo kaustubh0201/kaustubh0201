@@ -6,7 +6,7 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 </p>
 
 
-### Some more about me
+### About me
 - 🔭 I’m currently learning Backend Development using Spring REST, Thymeleaf and JPA.
 - 🌱 I constantly work on my problem solving and DSA skills.
 - 👯 I'm always open to collaborate on exciting Projects and Hackathons.
@@ -15,30 +15,30 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kaustubh-shrivastava-999026191/)
 - 😄 Pronouns: He/Him
 
-<hr>
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindwrapper" height="30" width="40" /></a> -->
+<!-- <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a> --> 
+<!-- <p align="center"> <a href="" target="_blank"><img src="https://img.shields.io/twitter/follow/mindwrapper?logo=twitter&style=for-the-badge" alt="mindwrapper" /></a> </p> -->
 <a href="https://www.linkedin.com/in/kaustubh-shrivastava-999026191/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh0201" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kaustubh_shankar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubh_shankar" height="30" width="40" /></a>
 <a href="https://medium.com/@kaustubh.shrivastava2019" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kaustubh0201" height="30" width="40" /></a>
-<!-- <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a> --> 
-<!-- <p align="center"> <a href="" target="_blank"><img src="https://img.shields.io/twitter/follow/mindwrapper?logo=twitter&style=for-the-badge" alt="mindwrapper" /></a> </p> -->
-<a href="https://auth.geeksforgeeks.org/user/kaustubh1818/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaustubh1818" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kaustubh1818/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kaustubh1818" height="30" width="40" /><a>
 
 </p>
-
 <hr>
-
 <h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{kaustubh0201}/count.svg">
+<a href="https://profile-counter.glitch.me/{kaustubh0201}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{kaustubh0201}/count.svg)  
   
 </a>
-
 <hr>
 
 # Github Activity📊:
