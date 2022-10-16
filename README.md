@@ -60,7 +60,7 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh0201&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaustubh0201&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+     <td><img src="https://raw.githubusercontent.com/kaustubh0201/kaustubh0201/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
