@@ -18,7 +18,6 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <hr>
 <h3 align="center">Connect with me:</h3>
