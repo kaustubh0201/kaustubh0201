@@ -15,6 +15,10 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kaustubh-shrivastava-999026191/)
 - 😄 Pronouns: He/Him
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
