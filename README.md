@@ -18,6 +18,17 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#37](https://github.com/mitalrs/Short-Profile-With-HTML-CSS/issues/37) in [mitalrs/Short-Profile-With-HTML-CSS](https://github.com/mitalrs/Short-Profile-With-HTML-CSS)
+2. 💪 Opened PR [#59](https://github.com/codersalman/Hacktoberfest-2022/pull/59) in [codersalman/Hacktoberfest-2022](https://github.com/codersalman/Hacktoberfest-2022)
+3. 💪 Opened PR [#84](https://github.com/theonlyanson/Hacktoberfest-2022/pull/84) in [theonlyanson/Hacktoberfest-2022](https://github.com/theonlyanson/Hacktoberfest-2022)
+4. ❌ Closed PR [#70](https://github.com/Mewwaa/hacktoberfest2022/pull/70) in [Mewwaa/hacktoberfest2022](https://github.com/Mewwaa/hacktoberfest2022)
+5. 💪 Opened PR [#70](https://github.com/Mewwaa/hacktoberfest2022/pull/70) in [Mewwaa/hacktoberfest2022](https://github.com/Mewwaa/hacktoberfest2022)
+6. 💪 Opened PR [#37](https://github.com/mitalrs/Short-Profile-With-HTML-CSS/pull/37) in [mitalrs/Short-Profile-With-HTML-CSS](https://github.com/mitalrs/Short-Profile-With-HTML-CSS)
+7. 💪 Opened PR [#71](https://github.com/Open-Source-you/Hackotberfest2022/pull/71) in [Open-Source-you/Hackotberfest2022](https://github.com/Open-Source-you/Hackotberfest2022)
+8. 💪 Opened PR [#120](https://github.com/hackelite01/Hacktoberfest-2022/pull/120) in [hackelite01/Hacktoberfest-2022](https://github.com/hackelite01/Hacktoberfest-2022)
+9. 💪 Opened PR [#135](https://github.com/ccgcv/Cplus-plus-for-hacktoberfest/pull/135) in [ccgcv/Cplus-plus-for-hacktoberfest](https://github.com/ccgcv/Cplus-plus-for-hacktoberfest)
+10. ❌ Closed PR [#69](https://github.com/ashvish183/Hacktoberfest2022/pull/69) in [ashvish183/Hacktoberfest2022](https://github.com/ashvish183/Hacktoberfest2022)
+<!--END_SECTION:activity-->
 
 <hr>
 <h3 align="center">Connect with me:</h3>
