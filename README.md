@@ -14,6 +14,29 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 - 💬 Ask me about Django Development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kaustubh-shrivastava-999026191/)
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: there are two ways to write error free programs; only the third one works
+
+<p align = "center">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/git.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/linux.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/spring.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/django.svg" alt="kaustubh0201" height="50" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BaaS/firebase.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/android.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/MobileAppDevelopment/kotlin.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/GameEngines/unity.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BaaS/heroku.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/aws.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="kaustubh0201" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/sqlite.svg" alt="kaustubh0201" height="30" width="40" />
+
+
+</p>
 
 ### :zap: Recent Activity
 
@@ -51,27 +74,35 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 </a>
 <hr>
 
-# Github Activity📊:
+# Github Activity 📊:
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kaustubh0201&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh0201&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kaustubh0201&theme=gruvbox&show_icons=true&count_private=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh0201&theme=gruvbox&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh0201&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://raw.githubusercontent.com/kaustubh0201/kaustubh0201/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" align="right" display=block width=100% height=auto  alt="4"  >
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh0201&theme=gruvbox"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://raw.githubusercontent.com/kaustubh0201/kaustubh0201/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
 
-# Productivity Stats📈:
+# Productivity Stats 📈:
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaustubh0201&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaustubh0201&theme=gruvbox"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
       <td><img src="https://activity-graph.herokuapp.com/graph?username=kaustubh0201&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
+  </tr>
+</table>
+
+# Top Repositories:
+<table>
+  <tr>
+    <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=University-Finder&theme=gruvbox" display = block width = 100% height auto alt = "5"></td>
+    <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=TowerDefenseGame&theme=gruvbox" display = block width = 100% height auto alt = "6"></td>
   </tr>
 </table>
