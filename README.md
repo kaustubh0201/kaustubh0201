@@ -102,7 +102,7 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 # Top Repositories:
 <table>
   <tr>
-    <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=University-Finder&theme=gruvbox" display = block width = 100% height auto alt = "5"></td>
-    <td><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=TowerDefenseGame&theme=gruvbox" display = block width = 100% height auto alt = "6"></td>
+    <td><a href = "https://github.com/kaustubh0201/University-Finder"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=University-Finder&theme=gruvbox" display = block width = 100% height auto alt = "5"></a></td>
+    <td><a href = "https://github.com/kaustubh0201/TowerDefenseGame"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=TowerDefenseGame&theme=gruvbox" display = block width = 100% height auto alt = "6"></a></td>
   </tr>
 </table>
