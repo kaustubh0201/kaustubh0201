@@ -41,13 +41,13 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37](https://github.com/mitalrs/Short-Profile-With-HTML-CSS/pull/37) in [mitalrs/Short-Profile-With-HTML-CSS](https://github.com/mitalrs/Short-Profile-With-HTML-CSS)
-2. ❌ Closed PR [#21](https://github.com/Coder-Jat/hacktoberfest2022/pull/21) in [Coder-Jat/hacktoberfest2022](https://github.com/Coder-Jat/hacktoberfest2022)
-3. ❌ Closed PR [#71](https://github.com/Open-Source-you/Hackotberfest2022/pull/71) in [Open-Source-you/Hackotberfest2022](https://github.com/Open-Source-you/Hackotberfest2022)
-4. 🎉 Merged PR [#1](https://github.com/kaustubh0201/Springboot/pull/1) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
-5. 🗣 Commented on [#37](https://github.com/mitalrs/Short-Profile-With-HTML-CSS/issues/37) in [mitalrs/Short-Profile-With-HTML-CSS](https://github.com/mitalrs/Short-Profile-With-HTML-CSS)
-6. 💪 Opened PR [#59](https://github.com/codersalman/Hacktoberfest-2022/pull/59) in [codersalman/Hacktoberfest-2022](https://github.com/codersalman/Hacktoberfest-2022)
-7. 💪 Opened PR [#84](https://github.com/theonlyanson/Hacktoberfest-2022/pull/84) in [theonlyanson/Hacktoberfest-2022](https://github.com/theonlyanson/Hacktoberfest-2022)
+1. 🎉 Merged PR [#4](https://github.com/kaustubh0201/Springboot/pull/4) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
+2. 🎉 Merged PR [#3](https://github.com/kaustubh0201/Springboot/pull/3) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
+3. 🎉 Merged PR [#2](https://github.com/kaustubh0201/Springboot/pull/2) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
+4. ❌ Closed PR [#37](https://github.com/mitalrs/Short-Profile-With-HTML-CSS/pull/37) in [mitalrs/Short-Profile-With-HTML-CSS](https://github.com/mitalrs/Short-Profile-With-HTML-CSS)
+5. ❌ Closed PR [#21](https://github.com/Coder-Jat/hacktoberfest2022/pull/21) in [Coder-Jat/hacktoberfest2022](https://github.com/Coder-Jat/hacktoberfest2022)
+6. ❌ Closed PR [#71](https://github.com/Open-Source-you/Hackotberfest2022/pull/71) in [Open-Source-you/Hackotberfest2022](https://github.com/Open-Source-you/Hackotberfest2022)
+7. 🎉 Merged PR [#1](https://github.com/kaustubh0201/Springboot/pull/1) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
 8. ❌ Closed PR [#70](https://github.com/Mewwaa/hacktoberfest2022/pull/70) in [Mewwaa/hacktoberfest2022](https://github.com/Mewwaa/hacktoberfest2022)
 9. 💪 Opened PR [#70](https://github.com/Mewwaa/hacktoberfest2022/pull/70) in [Mewwaa/hacktoberfest2022](https://github.com/Mewwaa/hacktoberfest2022)
 10. 💪 Opened PR [#37](https://github.com/mitalrs/Short-Profile-With-HTML-CSS/pull/37) in [mitalrs/Short-Profile-With-HTML-CSS](https://github.com/mitalrs/Short-Profile-With-HTML-CSS)
