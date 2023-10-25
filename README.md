@@ -68,8 +68,10 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 <hr>
 <h3 align="center">Visitor Count</h3>
 <a href="https://profile-counter.glitch.me/{kaustubh0201}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{kaustubh0201}/count.svg)  
+  <p align = "center">
+  <img src = "https://profile-counter.glitch.me/{kaustubh0201}/count.svg">
+  </p>
+<!--   ![VisitorCount](https://profile-counter.glitch.me/{kaustubh0201}/count.svg)   -->
   
 </a>
 <hr>
@@ -83,7 +85,7 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh0201&theme=gruvbox"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://raw.githubusercontent.com/kaustubh0201/kaustubh0201/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" align="right" display=block width=100% height=auto  alt="4"  >
+<!--      <td><img src="https://raw.githubusercontent.com/kaustubh0201/kaustubh0201/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" align="right" display=block width=100% height=auto  alt="4"  > -->
   </td>
   </tr>
 </table>
@@ -94,13 +96,17 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaustubh0201&theme=gruvbox"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=kaustubh0201&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+<!--       <td><img src="https://activity-graph.herokuapp.com/graph?username=kaustubh0201&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td> -->
   </td>
   </tr>
 </table>
 
 # Top Repositories:
 <table>
+  <tr>
+    <td><a href = "https://github.com/kaustubh0201/Steganalysis"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=Steganalysis&theme=gruvbox" display = block width = 100% height auto alt = "5"></a></td>
+    <td><a href = "https://github.com/kaustubh0201/Ray-Tracer"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=Ray-Tracer&theme=gruvbox" display = block width = 100% height auto alt = "5"></a></td>
+  </tr>
   <tr>
     <td><a href = "https://github.com/kaustubh0201/University-Finder"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=University-Finder&theme=gruvbox" display = block width = 100% height auto alt = "5"></a></td>
     <td><a href = "https://github.com/kaustubh0201/TowerDefenseGame"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=kaustubh0201&repo=TowerDefenseGame&theme=gruvbox" display = block width = 100% height auto alt = "6"></a></td>
