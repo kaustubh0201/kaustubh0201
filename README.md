@@ -84,7 +84,7 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh0201&theme=gruvbox&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh0201&theme=gruvbox"  display=block width=100% height=auto alt="3" ></td>
+<!--       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubh0201&theme=gruvbox"  display=block width=100% height=auto alt="3" ></td> -->
 <!--      <td><img src="https://raw.githubusercontent.com/kaustubh0201/kaustubh0201/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg" align="right" display=block width=100% height=auto  alt="4"  > -->
   </td>
   </tr>
