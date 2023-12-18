@@ -41,10 +41,10 @@ I am a passionate and inquisitive computer science enthusiast. I am currently le
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/kaustubh0201/Springboot/pull/4) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
-2. 🎉 Merged PR [#3](https://github.com/kaustubh0201/Springboot/pull/3) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
-3. 🎉 Merged PR [#2](https://github.com/kaustubh0201/Springboot/pull/2) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
-4. ❌ Closed PR [#37](https://github.com/mitalrs/Short-Profile-With-HTML-CSS/pull/37) in [mitalrs/Short-Profile-With-HTML-CSS](https://github.com/mitalrs/Short-Profile-With-HTML-CSS)
+1. ❗ Opened issue [#4](https://github.com/kaustubh0201/Movie-Booking/issues/4) in [kaustubh0201/Movie-Booking](https://github.com/kaustubh0201/Movie-Booking)
+2. ❗ Opened issue [#3](https://github.com/kaustubh0201/Movie-Booking/issues/3) in [kaustubh0201/Movie-Booking](https://github.com/kaustubh0201/Movie-Booking)
+3. ❗ Opened issue [#2](https://github.com/kaustubh0201/Movie-Booking/issues/2) in [kaustubh0201/Movie-Booking](https://github.com/kaustubh0201/Movie-Booking)
+4. ❗ Opened issue [#1](https://github.com/kaustubh0201/Movie-Booking/issues/1) in [kaustubh0201/Movie-Booking](https://github.com/kaustubh0201/Movie-Booking)
 5. ❌ Closed PR [#21](https://github.com/Coder-Jat/hacktoberfest2022/pull/21) in [Coder-Jat/hacktoberfest2022](https://github.com/Coder-Jat/hacktoberfest2022)
 6. ❌ Closed PR [#71](https://github.com/Open-Source-you/Hackotberfest2022/pull/71) in [Open-Source-you/Hackotberfest2022](https://github.com/Open-Source-you/Hackotberfest2022)
 7. 🎉 Merged PR [#1](https://github.com/kaustubh0201/Springboot/pull/1) in [kaustubh0201/Springboot](https://github.com/kaustubh0201/Springboot)
