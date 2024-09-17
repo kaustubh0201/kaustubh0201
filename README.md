@@ -2,7 +2,7 @@
 I am a passionate and inquisitive computer science enthusiast. I am currently learning Spring REST, Thymeleaf, JPA & Hibernate. I have worked on ML and IOT projects. I have been constantly working on improving my probem solving skills. 
 
 <p align="center">
-  <img src="https://github.com/kaustubh0201/kaustubh0201/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/kaustubh0201/kaustubh0201/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 
